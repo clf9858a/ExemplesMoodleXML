@@ -17,7 +17,7 @@
 	<answer fraction="0">
 		<text>Une mauvaise réponse</text>
 		<feedback>
-			<text>Ooops!</text>
+			<text>T'as perdu, gros</text>
 		</feedback>
 	</answer>
 	<answer fraction="0">
